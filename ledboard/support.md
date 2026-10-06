@@ -1,11 +1,11 @@
 ---
-title: Support — LEDBoard
-description: Help, FAQ, and contact for LEDBoard - LED Banner Scroller.
+title: Support — LEDMatrixBoard
+description: Help, FAQ, and contact for LEDMatrixBoard - LED Banner Scroller.
 ---
 
-# LEDBoard — Support
+# LEDMatrixBoard — Support
 
-LEDBoard turns any text into a scrolling LED dot-matrix sign on your iPhone or iPad. This page is for help, bug reports and feature requests.
+LEDMatrixBoard turns any text into a scrolling LED dot-matrix sign on your iPhone or iPad. This page is for help, bug reports and feature requests.
 
 ## Contact
 
@@ -16,7 +16,7 @@ LEDBoard turns any text into a scrolling LED dot-matrix sign on your iPhone or i
 When reporting a bug, please include:
 - iOS version (Settings → General → About → iOS Version)
 - iPhone or iPad model
-- LEDBoard version (Settings → About inside the app)
+- LEDMatrixBoard version (Settings → About inside the app)
 - What you did, what you expected, and what happened. A screenshot or screen recording helps a lot.
 
 ## Frequently Asked Questions
@@ -34,10 +34,10 @@ Yes. The screen stays awake while the full-screen player is open. To stop playba
 Yes. From the board, choose **Export**, then pick **MP4** (1280×720, 30 or 60 fps) or **GIF** (640×360, loops seamlessly). You can share it or **Save to Photos**. Free users watch a short ad before exporting; Premium users export straight away.
 
 ### "Save to Photos" doesn't work.
-LEDBoard needs permission to *add* items to your photo library. Go to **iOS Settings → LEDBoard → Photos** and choose **Add Photos Only** (or **Full Access**).
+LEDMatrixBoard needs permission to *add* items to your photo library. Go to **iOS Settings → LED Matrix → Photos** and choose **Add Photos Only** (or **Full Access**).
 
-### Is LEDBoard free?
-Yes. The free version includes every motion, the 12 style presets, solid and gradient backgrounds, and MP4/GIF export, with ads and a small "LEDBoard" watermark.
+### Is LEDMatrixBoard free?
+Yes. The free version includes every motion, the 12 style presets, solid and gradient backgrounds, and MP4/GIF export, with ads and a small "LEDMatrixBoard" watermark.
 
 ### What does Premium include?
 - All 12 templates
@@ -52,13 +52,13 @@ Premium is available as an **annual subscription** or a **one-time lifetime purc
 Open **Settings → Restore Purchases**, signed in with the same Apple ID you used to buy Premium.
 
 ### How do I cancel the annual subscription?
-Subscriptions are managed by Apple. Open **iOS Settings → [your name] → Subscriptions → LEDBoard** and tap **Cancel Subscription**. Cancel at least 24 hours before the renewal date to avoid being charged for the next year. Premium stays active until the end of the period you paid for.
+Subscriptions are managed by Apple. Open **iOS Settings → [your name] → Subscriptions → LEDMatrixBoard** and tap **Cancel Subscription**. Cancel at least 24 hours before the renewal date to avoid being charged for the next year. Premium stays active until the end of the period you paid for.
 
 ### How do I get a refund?
 Refunds are handled by Apple. Request one at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ### Why do I see ads, and can I control them?
-Ads keep LEDBoard free. You can turn off personalised ads by choosing **Ask App Not to Track** in Apple's prompt or in **iOS Settings → Privacy & Security → Tracking**. In the EEA, UK and Switzerland you can change your ad consent in **Settings → Privacy → Privacy Choices**. Premium removes all ads.
+Ads keep LEDMatrixBoard free. You can turn off personalised ads by choosing **Ask App Not to Track** in Apple's prompt or in **iOS Settings → Privacy & Security → Tracking**. In the EEA, UK and Switzerland you can change your ad consent in **Settings → Privacy → Privacy Choices**. Premium removes all ads.
 
 ### Does the app work offline?
 Yes. Creating, playing and exporting signs all work offline. An internet connection is only needed for ads and purchases.

@@ -1,14 +1,14 @@
 ---
-title: Privacy Policy — LEDBoard
-description: Privacy policy for the LEDBoard - LED Banner Scroller iOS app.
+title: Privacy Policy — LEDMatrixBoard
+description: Privacy policy for the LEDMatrixBoard - LED Banner Scroller iOS app.
 ---
 
-# LEDBoard — Privacy Policy
+# LEDMatrixBoard — Privacy Policy
 
 **Effective date:** 2026-10-06
 **Last updated:** 2026-10-06
 
-LEDBoard - LED Banner Scroller ("the app") is built and operated by an independent developer ("we", "us"). This policy explains what data the app collects, why, and how you control it. It applies to the LEDBoard app for iPhone and iPad distributed through the Apple App Store.
+LEDMatrixBoard - LED Banner Scroller ("the app") is built and operated by an independent developer ("we", "us"). This policy explains what data the app collects, why, and how you control it. It applies to the LEDMatrixBoard app for iPhone and iPad distributed through the Apple App Store.
 
 ## Summary (the short version)
 
@@ -46,13 +46,13 @@ This data is used for third-party advertising and is not linked to your identity
 **Your choices:**
 - **Apple's tracking prompt (App Tracking Transparency).** The app asks once whether it may track you. If you choose **Ask App Not to Track**, the IDFA is not shared and you see non-personalised or contextual ads. You can change this at any time in **iOS Settings → Privacy & Security → Tracking**.
 - **EEA, UK and Switzerland.** Before any ads load, the app shows Google's consent form so you can accept or decline personalised ads. You can change your choice later in the app under **Settings → Privacy → Privacy Choices**.
-- **Premium.** Buying LEDBoard Premium (annual or lifetime) removes all ads, so the ad SDK no longer requests ads.
+- **Premium.** Buying LEDMatrixBoard Premium (annual or lifetime) removes all ads, so the ad SDK no longer requests ads.
 
 See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 ### 2. Purchases (Apple and RevenueCat)
 
-LEDBoard Premium is sold as an auto-renewing annual subscription or a one-time lifetime purchase. Payments are handled entirely by Apple; we never see your payment details, name or Apple ID.
+LEDMatrixBoard Premium is sold as an auto-renewing annual subscription or a one-time lifetime purchase. Payments are handled entirely by Apple; we never see your payment details, name or Apple ID.
 
 To check whether you own Premium and to restore purchases, the app uses **RevenueCat**, which receives:
 
@@ -96,7 +96,7 @@ For reference, the App Store listing declares:
 
 ## Children
 
-LEDBoard is a general-audience app and is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information, contact us and we will help remove it.
+LEDMatrixBoard is a general-audience app and is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information, contact us and we will help remove it.
 
 ## Your rights
 

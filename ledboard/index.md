@@ -1,13 +1,13 @@
 ---
-title: LEDBoard — LED Banner Scroller
+title: LEDMatrixBoard — LED Banner Scroller
 description: Turn any text into a scrolling LED dot-matrix sign on iPhone and iPad.
 ---
 
-# LEDBoard
+# LEDMatrixBoard
 
 **Your phone, a real LED sign.**
 
-LEDBoard turns any text into a glowing LED dot-matrix banner, with real round or square dots, visible unlit dots and soft glow. Use it at concerts, airports, sports games, parties or in a shop window.
+LEDMatrixBoard turns any text into a glowing LED dot-matrix banner, with real round or square dots, visible unlit dots and soft glow. Use it at concerts, airports, sports games, parties or in a shop window.
 
 - Scroll, bounce, typewriter and still motions; blink, flash, breathe, rainbow, sparkle and wave effects.
 - Vietnamese, Chinese/Japanese/Korean and emoji support.
