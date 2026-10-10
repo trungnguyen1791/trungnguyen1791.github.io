@@ -38,7 +38,7 @@ No. The camera is analysed live on your device and nothing is saved or sent. See
 On Apple Silicon Macs the iPad version runs with click or space-bar controls. Face control is not available on Mac.
 
 ### Is it free?
-Yes. No ads and no in-app purchases.
+Yes. The game is supported by ads: a banner on the start and game-over screens and an occasional full-screen ad between runs. There are no ads during play and no in-app purchases.
 
 ## Privacy
 

@@ -1,6 +1,6 @@
 ---
 title: SmileBird — Smile to Fly
-description: A pixel-art arcade game for iPhone and iPad where you fly by smiling or winking. No ads. No tracking. No data collected.
+description: A free pixel-art arcade game for iPhone and iPad where you fly by smiling or winking. The camera never records.
 ---
 
 # SmileBird
@@ -14,7 +14,7 @@ SmileBird is a pixel-art arcade game for iPhone and iPad. Guide a little bird th
 - Live smile and wink meters show what the camera sees.
 - Tap, click or press space whenever you prefer.
 
-**No ads. No tracking. No data collected. The camera never records.**
+**Free to play, supported by ads between runs. The camera never records.**
 
 ---
 
