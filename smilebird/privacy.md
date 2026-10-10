@@ -8,7 +8,7 @@ description: Privacy policy for the SmileBird iOS app.
 **Effective date:** 2026-10-10
 **Last updated:** 2026-10-10
 
-SmileBird: Smile to Fly ("the app") is built and operated by an independent developer ("we", "us"). This policy explains how the app handles your data. It applies to the SmileBird app distributed through the Apple App Store.
+SmileBird ("the app") is built and operated by an independent developer ("we", "us"). This policy explains how the app handles your data. It applies to the SmileBird app distributed through the Apple App Store.
 
 ## Summary
 
